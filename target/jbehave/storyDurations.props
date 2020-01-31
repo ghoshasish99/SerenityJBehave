@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Sun Dec 29 21:17:51 CET 2019
+threads=1
+total=41000
+threadAverage=41000
+stories/createUser/createUser.story=41000
